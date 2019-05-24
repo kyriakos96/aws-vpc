@@ -1,11 +1,3 @@
-[1. AWS VPCs](aws_vpc.md)
-[2. Securing Your VPC](aws_vpc_security.md)
-[3. Configuring Load Balancing](aws_vpc_load_balancing.md)
-[4. Configuring Routing between VPCs](aws_vpc_peering.md)
-[5. Connecting Remote Locations with VPNs](aws_vpc_vpn.md)
-[6. Common questions about AWS VPCs](aws_vpc_qa.md)
-
-
 # 1. AWS VPCs
 
 Amazon Virtual Private Cloud (Amazon VPC) enables you to launch AWS resources into a virtual network that you've defined. This virtual network closely resembles a traditional network that you'd operate in your own data center, with the benefits of using the scalable infrastructure of AWS
