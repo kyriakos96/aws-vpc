@@ -11,3 +11,5 @@
 [5. Connecting Remote Locations with VPNs](aws_vpc_vpn.md)
 
 [6. Common questions about AWS VPCs](aws_vpc_qa.md)
+
+A lot of this has been borrowed from the [following course on Pluralsight](https://app.pluralsight.com/library/courses/aws-vpc-operations/table-of-contents)
